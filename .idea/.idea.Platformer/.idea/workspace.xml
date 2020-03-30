@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="feda7671-1f17-4fbf-abf9-55a9f1c74c9f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BE184878-56B8-4BBD-A6AF-D9E5DDDBB53F/6b/7945ef4c/Rigidbody2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/GroundedState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8ADAE150-0C8D-457A-A5FE-994852B90851/8b/80ff6d85/IState.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/AirboneState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/StateMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/DashingState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/State.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/OnWallState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/PlayerState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/JumpingState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MyUtilities.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Jumping.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement2DBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utilities.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovementFSM.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/GroundedState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/JumpingState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/PlayerBaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/IPlayerState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/PlayerState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/IState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/BaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/PlayerStatesReference.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/PlayerStates.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/State.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/OnWallState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/PlayerState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/StateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/AirboneState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/JumpingState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/DashingState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/PlayerStates/GroundedState.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YiVF11OMfiFSOiuoOJvbnjIJr0" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="11176">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="11176" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feda7671-1f17-4fbf-abf9-55a9f1c74c9f" name="Default Changelist" comment="" />
+      <created>1583425295830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583425295830</updated>
+      <workItem from="1583425299870" duration="12430000" />
+      <workItem from="1583448553342" duration="2234000" />
+      <workItem from="1583489195814" duration="11467000" />
+      <workItem from="1584212627440" duration="12534000" />
+      <workItem from="1584285918913" duration="17719000" />
+      <workItem from="1584353646285" duration="22427000" />
+      <workItem from="1584726230407" duration="437000" />
+      <workItem from="1584971556033" duration="4097000" />
+      <workItem from="1585483917547" duration="1220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
